@@ -1,0 +1,154 @@
+.entire-page {
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .intro h1 {
+    background-color: white;
+    margin: auto;
+    padding: 10px 10px 10px 20px;
+    color: black;
+    overflow: auto;
+    font-size: 70px;
+  }
+  
+  .Topic {
+    color: white;
+    margin: auto;
+    padding: 30px 20px 20px 20px;
+    background-color: black;
+    overflow: auto;
+  }
+  
+  .intro img {
+    float: right;
+  }
+  
+  .list {
+    padding: 33px;
+    font-size: 60px;
+    border: double white;
+    border-radius: 50px;
+    background-color: #003366;
+  }
+  
+  html {
+    background-color: #837251;
+  }
+  /* image edits*/
+  .middle-TN {
+    float: right;
+    width: 50%;
+  }
+  
+  .USDA-THDA-HR {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+  }
+  
+  .USDA {
+    background-color: white;
+    border-radius: 2px 50px;
+    color: black;
+    font-size: 20px;
+    margin: 10px 0px;
+    padding: 10px 20px 30px 20px;
+    width: 45%;
+  }
+  
+  .USDA h3 {
+    color: #003366;
+    border-bottom: solid;
+  }
+  
+  .USDA-link {
+    color: #003366;
+    font-size: 30px;
+  
+    float: left;
+  }
+  #USDA-img {
+    width: auto;
+    height: 100px;
+    margin-top: 3px;
+    float: right;
+  }
+  
+  .THDA {
+    border-radius: 2px 50px;
+    color: white;
+    margin: 10px 0px;
+    padding: 10px 20px 30px 20px;
+    background-color: #161512;
+    font-size: 20px;
+    width: 45%;
+  }
+  
+  #THDA-Link {
+    color: #234893;
+    font-size: 30px;
+  }
+  
+  .THDA h3 {
+    color: #234893;
+    border-bottom: solid;
+  }
+  
+  #THDA-Logo {
+    float: right;
+    width: 50%;
+  }
+  
+  .Homeready {
+    color: black;
+    padding: 10px 20px 30px 20px;
+    background-color: lightgrey;
+    border-radius: 25px;
+    font-size: 20px;
+    border-radius: 2px 50px;
+    width: 46%;
+    margin: 0px 0px 0px 20px;
+  }
+  
+  .Homeready h3 {
+    color: #003366;
+    border-bottom: solid;
+  }
+  
+  .Homeready h4 {
+  }
+  
+  #Homeready-Logo {
+    float: right;
+    width: 30%;
+  }
+  
+  .Homeready-List {
+    color: green;
+    font-size: 35px;
+  }
+  
+  .Homeready-List a {
+    color: green;
+  }
+  
+  footer {
+    margin-top: 30px;
+    text-align: center;
+    background-color: black;
+    color: white;
+    width: 100%;
+  }
+  
+  .ending p {
+    padding: 5px;
+  }
+  
+  #EHL {
+    float: right;
+    height: 125px;
+    padding: 0px 5px 5px 5px;
+  }
+  
